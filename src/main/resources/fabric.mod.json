@@ -3,23 +3,23 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Vanilla Extended",
+  "description": "A minecraft mod that focuses on 1.16+ game mechanics and items, adding onto and improving vanilla minecraft mechanics/items.",
   "authors": [
-    "Me!"
+    "SirLynx_, contributors"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://sirlynx.github.io/vanillaextended",
+    "sources": "https://github.com/SirLynx/VanillaExtended"
   },
 
-  "license": "CC0-1.0",
+  "license": "Apache-2.0",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "io.github.sirlynx.VanillaExtended"
     ]
   },
   "mixins": [
