@@ -1,0 +1,32 @@
+{
+  // Copper
+  // Tools
+  "item.vanillaextended.copper_pickaxe": "Copper Pickaxe",
+  "item.vanillaextended.copper_axe": "Copper Axe",
+  "item.vanillaextended.copper_sword": "Copper Sword",
+  "item.vanillaextended.copper_hoe": "Copper Hoe",
+  "item.vanillaextended.copper_shovel": "Copper Shovel",
+
+  // Armour
+  "item.vanillaextended.copper_armour_helmet": "Copper Helmet",
+  "item.vanillaextended.copper_armour_chestplate": "Copper Chestplate",
+  "item.vanillaextended.copper_armour_leggings": "Copper Leggings",
+  "item.vanillaextended.copper_armour_boots": "Copper Boots",
+
+  // Misc
+  "item.vanillaextended.copper_nugget": "Copper Nugget",
+
+  // Emerald
+  // Tools
+  "item.vanillaextended.emerald_pickaxe": "Emerald Pickaxe",
+  "item.vanillaextended.emerald_axe": "Emerald Axe",
+  "item.vanillaextended.emerald_sword": "Emerald Sword",
+  "item.vanillaextended.emerald_hoe": "Emerald Hoe",
+  "item.vanillaextended.emerald_shovel": "Emerald Shovel",
+
+  // Armour
+  "item.vanillaextended.emerald_armour_helmet": "Emerald Helmet",
+  "item.vanillaextended.emerald_armour_chestplate": "Emerald Chestplate",
+  "item.vanillaextended.emerald_armour_leggings": "Emerald Leggings",
+  "item.vanillaextended.emerald_armour_boots": "Emerald Boots"
+}
