@@ -40,7 +40,7 @@ public class CopperArmourMaterial implements ArmorMaterial {
     }
 
     public float getToughness() {
-        return 1.5F;
+        return 0.0F;
     }
 
     public float getKnockbackResistance() {
