@@ -14,16 +14,15 @@
   },
 
   "license": "Apache-2.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "io.github.sirlynx.VanillaExtended"
+      "io.github.sirlynx.vanillaextended.VanillaExtended"
     ]
   },
   "mixins": [
-    "vanillaextended.mixins.json"
   ],
 
   "depends": {
