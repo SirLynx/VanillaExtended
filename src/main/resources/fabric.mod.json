@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Vanilla Extended",
-  "description": "A minecraft mod that focuses on 1.16+ game mechanics and items, adding onto and improving vanilla minecraft mechanics/items.",
+  "description": "A minecraft mod that focuses on 1.17+ game mechanics and items, adding onto and improving vanilla minecraft mechanics/items.",
   "authors": [
     "SirLynx_, contributors"
   ],
@@ -13,7 +13,7 @@
     "sources": "https://github.com/SirLynx/VanillaExtended"
   },
 
-  "license": "Apache-2.0",
+  "license": "MIT",
   "icon": "icon.png",
 
   "environment": "*",
